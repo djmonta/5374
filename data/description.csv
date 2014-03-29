@@ -10,4 +10,4 @@ label,sublabel,description,styles,bgcolor
 古着・古布,,,img/cloth.svg,#724f34
 可燃ごみ,,,img/combustibles.svg,#64a6df
 不燃ごみ,,,img/Incombustibles.svg,#e9b247
-有害ごみ,,,,#a5155b
+有害ごみ,,,img/toxicwaste.svg,#a5155b
